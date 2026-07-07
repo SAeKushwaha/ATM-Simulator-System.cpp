@@ -19,7 +19,13 @@ A console-based ATM simulation project built using C++ with dynamic memory alloc
 - Input validation to avoid unnecessary user prompts after an incorrect PIN
 
   ##Demos
+
+  
 ![Main menu - Deposit - Withdraw - balance](Screenshots/Dposit-Withdrwal-CheckBalance.png)
+
+
+
+
 ![Transaction History](Screenshots/TransactionHistory.png)
 
 
