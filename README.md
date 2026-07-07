@@ -18,6 +18,11 @@ A console-based ATM simulation project built using C++ with dynamic memory alloc
 - Menu-driven programming
 - Input validation to avoid unnecessary user prompts after an incorrect PIN
 
+  ##Demos
+![Main menu - Deposit - Withdraw - balance](screenchots/Dposit-Withdrwal-CheckBalance.png)
+![Transaction History](screenshots/TransactionHistory.png)
+
+
 ## Purpose
 
 This project was built while learning C++ pointers and dynamic memory management without using array indexing or STL containers such as `std::vector`.
